@@ -1,0 +1,21 @@
+[
+    "Seu animal vive na água? 🐠",
+    [
+        "Seu animal tem filme de suspense?",
+        [
+            "& C:/Users/Usuario/AppData/Local/Python/pythoncore-3.14-64/python.exe \"c:/Users/Usuario/OneDrive/Área de Trabalho/Projeto de Python/meu_robo/akinato.py\"",
+            "& C:/Users/Usuario/AppData/Local/Python/pythoncore-3.14-64/python.exe \"c:/Users/Usuario/OneDrive/Área de Trabalho/Projeto de Python/meu_robo/akinato.py\"",
+            "Tubarão"
+        ],
+        "Baleia"
+    ],
+    [
+        "Seu animal voa?",
+        [
+            "Seu animal fala?",
+            "Papagaio",
+            "Coruja"
+        ],
+        "Gato"
+    ]
+]
